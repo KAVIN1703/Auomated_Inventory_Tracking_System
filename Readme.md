@@ -1,1 +1,3 @@
 # AUTOMATED INVENTORY TRACKING SYSTEM
+
+## Introduction
